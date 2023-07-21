@@ -1,0 +1,9 @@
+* cl-containers
+
+Containers Library for Common Lisp
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/gwkkwg/cl-containers.git |
+| commit  | cc491c2                                         |
+| systems | cl-containers                                   |
+|---------+-------------------------------------------------|
