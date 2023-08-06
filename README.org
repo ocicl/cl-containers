@@ -1,4 +1,4 @@
-* cl-ppcre
+* cl-containers
 
 Containers Library for Common Lisp
 
