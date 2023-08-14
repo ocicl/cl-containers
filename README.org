@@ -4,6 +4,6 @@ Containers Library for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/gwkkwg/cl-containers.git |
-| commit  | cc491c2                                         |
+| commit  | dc6e421                                         |
 | systems | cl-containers                                   |
 |---------+-------------------------------------------------|
